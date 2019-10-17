@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Anne Nabila Rachmad
 
-NRP: `isi nrp disini`
+NRP: 06111840000063
 
 ## Deskripsi Tugas
 
@@ -32,7 +32,14 @@ NRP: `isi nrp disini`
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
-masukkan screenshot output disini
+soal 1 
+![soal1tugas4](https://user-images.githubusercontent.com/55887990/67045821-3b40da00-f159-11e9-8d23-88aab9fad43e.png)
+soal 2
+![soal2tugas4](https://user-images.githubusercontent.com/55887990/67045835-43991500-f159-11e9-9b6f-e9f3e0fc7b77.png)
+soal 3
+![soal3tugas4](https://user-images.githubusercontent.com/55887990/67045848-498ef600-f159-11e9-8df2-878a97070d5c.png)
+soal 4
+![soal4tugas4](https://user-images.githubusercontent.com/55887990/67045851-498ef600-f159-11e9-8e01-99f0ae777589.png)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
